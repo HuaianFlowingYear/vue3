@@ -1,0 +1,15 @@
+{
+    "code": 200,
+    "msg": "请求成功",
+    "data": [{
+            "path": "/a",
+            "name": "a",
+            "component": "a.vue"
+        },
+        {
+            "path": "/b",
+            "name": "b",
+            "component": "b.vue"
+        }
+    ]
+}
